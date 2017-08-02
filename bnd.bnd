@@ -1,0 +1,4 @@
+Bundle-Name: my-guestbook2-project
+Bundle-SymbolicName: com.liferay.docs.guestbook2
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.docs.guestbook2.constants
